@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ManuelDevWeb/POO_TypeScript/issues"
   },
-  "homepage": "https://github.com/ManuelDevWeb/POO_TypeScript#readme"
+  "homepage": "https://github.com/ManuelDevWeb/POO_TypeScript#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
 }
